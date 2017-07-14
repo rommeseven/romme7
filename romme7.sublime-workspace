@@ -1,0 +1,776 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"toggl",
+				"toggleEdit"
+			],
+			[
+				"che",
+				"checked"
+			],
+			[
+				"count",
+				"$counted_termins〔variable〕"
+			],
+			[
+				"coun",
+				"$counted_termins〔variable〕"
+			],
+			[
+				"setting_",
+				"setting_interval"
+			],
+			[
+				"arr",
+				"array〔keyword〕"
+			],
+			[
+				"mysql_f",
+				"mysqli_fetch_array〔function〕"
+			],
+			[
+				"mysql_fe",
+				"mysql_fetch_row〔function〕"
+			],
+			[
+				"mysql_nu",
+				"mysql_num_rows〔function〕"
+			],
+			[
+				"session_de",
+				"session_destroy〔function〕"
+			],
+			[
+				"mysql_num_",
+				"mysql_num_rows〔function〕"
+			],
+			[
+				"player",
+				"playerexists〔function〕"
+			],
+			[
+				"play",
+				"$playerq〔variable〕"
+			],
+			[
+				"mysql_num",
+				"mysql_numrows〔function〕"
+			],
+			[
+				"my",
+				"mysql_query(\"UPDATE"
+			],
+			[
+				"mysql_in",
+				"mysql_insert_id"
+			],
+			[
+				"ni",
+				"nickname"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"todo",
+				"TodoReview: Project Files"
+			],
+			[
+				"Snippet: val",
+				"Snippet: validate"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"syn",
+				"Set Syntax: HTML"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: #!/usr/bin/env"
+			],
+			[
+				"TODO",
+				"TodoReview: Open Files"
+			],
+			[
+				"Snippet: ech",
+				"Snippet: echo \"…\""
+			],
+			[
+				"code",
+				"CodeFormatter: Format as HTML Syntax"
+			],
+			[
+				"show",
+				"CodeFormatter: Show PHP Transformations"
+			],
+			[
+				"co",
+				"CodeFormatter: Format as HTML Syntax"
+			],
+			[
+				"cod",
+				"CodeFormatter: Format as HTML Syntax"
+			],
+			[
+				"htmlp",
+				"HTMLPrettify"
+			],
+			[
+				"html",
+				"HTMLPrettify: Set `node` Path"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"packa",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"codeformatter",
+				"CodeFormatter: Show PHP Transformations"
+			],
+			[
+				"php",
+				"PHP CodeBeautifier"
+			],
+			[
+				"ph",
+				"PHP CodeBeautifier"
+			],
+			[
+				"sassb",
+				"SassBeautify"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 332.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/F/laciapps/cmseven55/resources/new project setup.txt",
+		"/F/laciapps/cmseven55/resources/assets/sass/_settings.scss",
+		"/F/laciapps/cmseven_2017juli/webpack.mix.js",
+		"/F/CUCCOK/batch/laravel_generator/webpack.mix.js",
+		"/F/laciapps/cmseven_2017juli/resources/assets/sass/_settings.scss",
+		"/F/laciapps/xlist/index.html",
+		"/F/laciapps/cmseven0/node_modules/foundation-sites/foundation-docs/test/output/component.html",
+		"/F/laciapps/cmseven0/node_modules/foundation-sites/foundation-docs/gulpfile.js",
+		"/F/laciapps/coastercms2/routes/routes.php",
+		"/F/laciapps/cmseven0/node_modules/.bin/he",
+		"/F/laciapps/cmseven0/resources/assets/sass/partials/_header.scss",
+		"/F/laciapps/cmseven0/resources/assets/sass/_settings.scss",
+		"/F/laciapps/cmseven0/resources/assets/sass/app.scss",
+		"/F/laciapps/cmseven0/resources/assets/sass/partials/_topcontent.scss",
+		"/F/laciapps/cmseven0/resources/views/home.blade.php",
+		"/F/laciapps/cmseven0/.env",
+		"/F/laciapps/cmseven0/webpack.mix.js",
+		"/F/laciapps/cmseven0/resources/views/welcome.blade.php",
+		"/F/laciapps/cmseven0/node_modules/lodash/_Hash.js",
+		"/F/laciapps/cmseven0/resources/views/homefornewlava.blade.php",
+		"/F/laciapps/cmseven0/resources/views/layouts/app.blade.php",
+		"/F/laciapps/cmseven0/database/cmseven0.sqlite",
+		"/F/laciapps/cmseven0/resources/views/auth/login.blade.php",
+		"/F/laciapps/cmseven0/resources/views/auth/register.blade.php",
+		"/F/laciapps/cmseven0/resources/views/auth/passwords/email.blade.php",
+		"/F/laciapps/cmseven0/resources/views/auth/passwords/reset.blade.php",
+		"/F/laciapps/cmseven0/config/app.php",
+		"/F/laciapps/cmseven0/resources/assets/js/app.js",
+		"/F/laciapps/cmseven0/.env.example",
+		"/F/laciapps/cmseven0/resources/assets/sass/fontawesome/_variables.scss",
+		"/F/laciapps/cmseven0/resources/new project setup.txt",
+		"/F/laciapps/cmseven0/resources/assets/sass/partials/_general.scss",
+		"/F/laciapps/testvue1/config/app.php",
+		"/F/laciapps/testvue1/config/cache.php",
+		"/F/laciapps/testvue1/vendor/laravel/framework/src/Illuminate/Config/composer.json",
+		"/F/laciapps/testvue1/vendor/psy/psysh/test/fixtures/default/.config/psysh/config.php",
+		"/F/laciapps/testvue1/node_modules/dotenv/config.js",
+		"/F/laciapps/testvue1/node_modules/vue-loader/lib/component-normalizer.js",
+		"/F/laciapps/testvue1/node_modules/caniuse-db/features-json/css-opacity.json",
+		"/F/laciapps/testvue1/composer.json",
+		"/F/laciapps/testvue1/artisan",
+		"/F/laciapps/testvue1/vendor/composer/autoload_psr4.php",
+		"/F/laciapps/testvue1/app/User.php",
+		"/F/laciapps/testvue1/app/Console/Kernel.php",
+		"/F/laciapps/testvue1/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/ConstFetch.php",
+		"/F/laciapps/testvue1/node_modules/node-notifier/vendor/terminal-notifier.app/Contents/MacOS/terminal-notifier",
+		"/F/laciapps/testvue1/node_modules/node-notifier/vendor/terminal-notifier.app/Contents/Resources/en.lproj/InfoPlist.strings",
+		"/F/laciapps/testvue1/app/Http/Controllers/Auth/ForgotPasswordController.php",
+		"/F/laciapps/testvue1/node_modules/redeyed/config.js",
+		"/F/laciapps/testvue1/node_modules/browser-sync/lib/config.js",
+		"/F/laciapps/testvue1/resources/assets/sass/_settings.scss",
+		"/F/laciapps/testvue1/bootstrap/app.php",
+		"/F/laciapps/testvue1/node_modules/caniuse-db/features-json/wbr-element.json",
+		"/F/laciapps/testvue1/webpack.mix.js",
+		"/F/laciapps/testvue1/resources/views/welcome.blade.php",
+		"/F/laciapps/testvue1/resources/assets/sass/app.scss",
+		"/F/laciapps/testvue1/node_modules/motion-ui/src/_settings.scss",
+		"/F/laciapps/testvue1/node_modules/foundation-sites/scss/settings/_settings.scss",
+		"/F/laciapps/testvue1/node_modules/less-loader/.idea/scopes/scope_settings.xml",
+		"/F/laciapps/testvue1/node_modules/openurl/.idea/scopes/scope_settings.xml",
+		"/F/laciapps/testvue1/node_modules/less-loader/.idea/inspectionProfiles/profiles_settings.xml",
+		"/F/laciapps/testvue1/node_modules/openurl/.idea/inspectionProfiles/profiles_settings.xml",
+		"/F/laciapps/testvue1/node_modules/lodash/_setToArray.js",
+		"/F/laciapps/testvue1/node_modules/lodash/_Set.js",
+		"/F/laciapps/testvue1/node_modules/lodash/_Hash.js",
+		"/F/laciapps/testvue1/resources/assets/js/components/Xlist.vue",
+		"/F/laciapps/testvue1/node_modules/caniuse-db/features-json/resource-timing.json",
+		"/F/laciapps/testvue1/node_modules/autoprefixer/lib/resolution.js",
+		"/F/laciapps/testvue1/node_modules/less/test/browser/runner-errors-spec.js",
+		"/F/laciapps/testvue1/node_modules/easy-extender/node_modules/lodash/internal/reEscape.js",
+		"/F/laciapps/testvue1/node_modules/.bin/rc",
+		"/F/laciapps/testvue1/resources/assets/sass/_todos.scss",
+		"/F/laciapps/testvue1/node_modules/enhanced-resolve/lib/SyncAsyncFileSystemDecorator.js",
+		"/F/laciapps/testvue1/node_modules/resolve-url-loader/lib/sources-absolute-to-relative.js",
+		"/F/laciapps/testvue1/node_modules/caniuse-lite/data/features/online-status.js",
+		"/F/laciapps/testvue1/resources/assets/js/app.js",
+		"/F/laciapps/testvue1/node_modules/foundation-sites/scss/foundation.scss",
+		"/F/laciapps/testvue1/node_modules/core-js/modules/_for-of.js",
+		"/F/laciapps/testvue1/node_modules/lodash/_flatRest.js",
+		"/F/laciapps/testvue1/node_modules/img-loader/__tests__/index.spec.js",
+		"/F/laciapps/testvue1/node_modules/nan/doc/node_misc.md",
+		"/F/laciapps/testvue1/node_modules/.bin/node-gyp",
+		"/F/laciapps/testvue1/node_modules/.bin/node-gyp.cmd",
+		"/F/laciapps/testvue1/node_modules/babel-preset-env/lib/normalize-options.js",
+		"/F/laciapps/testvue1/npm-debug.log.1138058003",
+		"/F/laciapps/testvue1/node_modules/caniuse-lite/data/features/same-site-cookie-attribute.js",
+		"/F/laciapps/testvue1/node_modules/caniuse-lite/data/features/scrollintoview.js",
+		"/F/laciapps/testvue1/node_modules/node-sass/src/libsass/res/resource.rc",
+		"/F/laciapps/testvue1/node_modules/caniuse-lite/data/features/css-all.js",
+		"/F/laciapps/testvue1/node_modules/caniuse-lite/data/features/css-scrollbar.js",
+		"/F/laciapps/testvue1/node_modules/bs-recipes/recipes/grunt.sass/app/scss/main.scss",
+		"/F/CUCCOK/Sublime Text/Data/Packages/User/JS snippets/Array Element.sublime-snippet",
+		"/F/laciapps/testvue1/app/Http/Controllers/XlistController.php",
+		"/F/CUCCOK/Sublime Text/Data/Packages/User/vue snippets/Base File.sublime-settings",
+		"/F/laciapps/testvue1/resources/assets/js/components/Todo.vue",
+		"/F/laciapps/testvue1/node_modules/resolve-url/component.json",
+		"/F/laciapps/testvue1/vendor/sebastian/resource-operations/composer.json",
+		"/F/laciapps/testvue1/resources/new project setup.txt",
+		"/F/laciapps/testvue1/node_modules/less/test/browser/runner-errors-options.js",
+		"/F/laciapps/testvue1/node_modules/less/test/browser/runner-relative-urls-options.js",
+		"/F/laciapps/testvue1/node_modules/svgo/plugins/removeUselessStrokeAndFill.js",
+		"/F/CUCCOK/batch/laravel_generator/resources/assets/js/app.js",
+		"/F/laciapps/testvue1/node_modules/caniuse-lite/data/features/offline-apps.js",
+		"/F/laciapps/testvue1/node_modules/caniuse-lite/data/features/objectrtc.js",
+		"/F/laciapps/testvue1/node_modules/style-loader/addStyles.js",
+		"/F/laciapps/testvue1/node_modules/vue-style-loader/lib/addStylesServer.js",
+		"/F/CUCCOK/Sublime Text/Data/Packages/User/laravel snippets/Array Element.sublime-snippet",
+		"/F/CUCCOK/Sublime Text/Data/Packages/User/laravel snippets/validate.sublime-snippet",
+		"/F/CUCCOK/Sublime Text/Data/Packages/User/Base File.sublime-settings",
+		"/F/laciapps/testvue1/resources/views/home.blade.php",
+		"/F/CUCCOK/Sublime Text/Data/Packages/DocBlockr/README.md",
+		"/F/CUCCOK/Sublime Text/Data/Packages/ScopeAlways/ScopeAlways.sublime-settings",
+		"/F/CUCCOK/Sublime Text/Data/Packages/Terminal/Terminal.sublime-settings",
+		"/F/CUCCOK/Sublime Text/Data/Packages/DocBlockr/Base File.sublime-settings",
+		"/F/laciapps/testvue1/routes/web.php",
+		"/F/CUCCOK/LACUSULI/Foundation/Foundation6 Docs/index.html",
+		"/C/Users/lacus/Downloads/Foundation6/Foundation6/index.html",
+		"/F/laciapps/testvue1/node_modules/weinre/web/client/Settings.js",
+		"/F/laciapps/testvue1/node_modules/cardinal/test/settings.js",
+		"/F/laciapps/testvue1/node_modules/cardinal/settings.js",
+		"/F/laciapps/testvue1/node_modules/.bin/seek-table",
+		"/F/laciapps/testvue1/node_modules/bin-version-check/node_modules/minimist/test/stop_early.js",
+		"/F/laciapps/testvue1/server.php",
+		"/C/xampp/htdocs/fineances/javascript_test/index.html",
+		"/F/laciapps/testvue1/app/Providers/RouteServiceProvider.php",
+		"/F/laciapps/testvue1/vendor/symfony/routing/Route.php",
+		"/F/laciapps/testvue1/node_modules/http-proxy-middleware/lib/router.js",
+		"/F/laciapps/testvue1/node_modules/lodash/round.js"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 103.0,
+		"where_history":
+		[
+			"index.php",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"CoasterCms",
+			"card",
+			"off-ca",
+			"login",
+			"title",
+			"collapse",
+			"small-12.medium-shrink",
+			".small-12.medium-expand",
+			"flex",
+			"pale",
+			"global-rad",
+			"border-ra",
+			"border",
+			"todos",
+			"<xlist",
+			"xlist",
+			" 1.7px solid #457B9D",
+			"xlist>",
+			"column",
+			"elindex",
+			"                    <a class=\"button secondary\" >\n                        <i class=\"fi-clipboard-pencil\">\n                        </i>\n                        Edit\n                    </a>\n                    <a class=\"button\">\n                        <i class=\"fi-x\">\n                        </i>\n                        Remove\n                    </a>\n                    ",
+			"todo.elindex",
+			"index",
+			"completed",
+			"flex",
+			"expand",
+			"panel",
+			"section",
+			"currencies",
+			"things",
+			"shops",
+			"fines",
+			"users",
+			"fine",
+			"mixin",
+			"medium-4",
+			"number",
+			"10px",
+			"fa-stack-1x",
+			"fa-circle-thin",
+			"bold",
+			"color_",
+			"div",
+			"fa-stack-1x",
+			"fa-4x",
+			"fa-lg",
+			"fa-stack-2x",
+			"fa-circle-thin",
+			"vertical",
+			"header",
+			"addtermin",
+			" class=\"makeitto_",
+			"makeitto_date",
+			"medium centered",
+			"tagesansich",
+			"  -webkit-transition: all 95ms cubic-bezier(0.56, 0.015, 0.5, 0.75);\n  -moz-transition: all 95ms cubic-bezier(0.56, 0.015, 0.5, 0.75);\n  -o-transition: all 95ms cubic-bezier(0.56, 0.015, 0.5, 0.75);\n  transition: all 95ms cubic-bezier(0.56, 0.015, 0.5, 0.75);\n  -webkit-transition-timing-function: cubic-bezier(0.56, 0.015, 0.5, 0.75);\n  -moz-transition-timing-function: cubic-bezier(0.56, 0.015, 0.5, 0.75);\n  -o-transition-timing-function: cubic-bezier(0.56, 0.015, 0.5, 0.75);\n  transition-timing-function: cubic-bezier(0.56, 0.015, 0.5, 0.75);",
+			"    -webkit-transition: all 95ms cubic-bezier(0.56, 0.015, 0.5, 0.75);\n    -moz-transition: all 95ms cubic-bezier(0.56, 0.015, 0.5, 0.75);\n    -o-transition: all 95ms cubic-bezier(0.56, 0.015, 0.5, 0.75);\n    transition: all 95ms cubic-bezier(0.56, 0.015, 0.5, 0.75);\n    -webkit-transition-timing-function: cubic-bezier(0.56, 0.015, 0.5, 0.75);\n    -moz-transition-timing-function: cubic-bezier(0.56, 0.015, 0.5, 0.75);\n    -o-transition-timing-function: cubic-bezier(0.56, 0.015, 0.5, 0.75);\n    transition-timing-function: cubic-bezier(0.56, 0.015, 0.5, 0.75);",
+			"-webkit-transition: all 95ms cubic-bezier(0.56, 0.015, 0.5, 0.75);\n-moz-transition: all 95ms cubic-bezier(0.56, 0.015, 0.5, 0.75);\n-o-transition: all 95ms cubic-bezier(0.56, 0.015, 0.5, 0.75);\ntransition: all 95ms cubic-bezier(0.56, 0.015, 0.5, 0.75);\n-webkit-transition-timing-function: cubic-bezier(0.56, 0.015, 0.5, 0.75);\n-moz-transition-timing-function: cubic-bezier(0.56, 0.015, 0.5, 0.75);\n-o-transition-timing-function: cubic-bezier(0.56, 0.015, 0.5, 0.75);\ntransition-timing-function: cubic-bezier(0.56, 0.015, 0.5, 0.75);",
+			"  -webkit-transition: all 95ms cubic-bezier(0.56, 0.015, 0.5, 0.75);\n  -moz-transition: all 95ms cubic-bezier(0.56, 0.015, 0.5, 0.75);\n  -o-transition: all 95ms cubic-bezier(0.56, 0.015, 0.5, 0.75);\n  transition: all 95ms cubic-bezier(0.56, 0.015, 0.5, 0.75);\n  -webkit-transition-timing-function: cubic-bezier(0.56, 0.015, 0.5, 0.75);\n  -moz-transition-timing-function: cubic-bezier(0.56, 0.015, 0.5, 0.75);\n  -o-transition-timing-function: cubic-bezier(0.56, 0.015, 0.5, 0.75);\n  transition-timing-function: cubic-bezier(0.56, 0.015, 0.5, 0.75);",
+			"reg",
+			"href=\"\"",
+			"ausloggen",
+			"informat",
+			"#sides",
+			"\"fa  fa",
+			"border-radius: 6px;",
+			".horizontal-nav",
+			"note",
+			"mainna",
+			"alert",
+			"on",
+			"nw",
+			"tooltip",
+			"falselink",
+			"login",
+			" <form ",
+			"form",
+			"done",
+			"switch",
+			"this",
+			"calender",
+			"px",
+			"breakpoint",
+			"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perspiciatis dignissimos dolore error.",
+			"large-2",
+			"telefon",
+			"passwort",
+			"name",
+			" <div class=\"row\">",
+			"Telefon",
+			"<input",
+			"password",
+			"\">\n",
+			"password",
+			"phonenumber",
+			"password",
+			"username",
+			"password",
+			"field",
+			"alert",
+			"echo",
+			"135",
+			"years",
+			"        $setting_days = 6; // REMEMBER: ez settings táblából legyen kiolvasva",
+			"        $(\"#day\").show();",
+			"needed",
+			"termins",
+			"rand(0,32);",
+			"rand(",
+			"notespan",
+			"rand(0,32)",
+			"rand(0,7);",
+			" note-",
+			" note",
+			"note",
+			" note",
+			"note",
+			"noterotate",
+			"invi",
+			"new",
+			"month",
+			"    &.newyear\n    {\n          border-left-color: brown;\n    border-left-width: 5.5px;\n    }",
+			"day",
+			"dow",
+			"day",
+			"date",
+			"old",
+			"setting_days"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"@include animated(95ms);",
+			"px",
+			"text",
+			"rand(0,14);",
+			"rand(0,32);",
+			"rand(0,64);",
+			" note note-",
+			"alt",
+			"funkcio",
+			"weekend",
+			"weekstart",
+			"months",
+			"monatenames",
+			"2012-$i",
+			"<?=$root;?>",
+			"//alert",
+			"tixorotate",
+			"$rotatevalue",
+			" $rotatevalue",
+			"dayid",
+			"=\"true\"",
+			"",
+			"<div class=\"upyougo\"></div>",
+			"box-shadow",
+			".calendar",
+			"calendar",
+			"<option>",
+			"</option>",
+			"202",
+			"<option>201",
+			".small-centered.medium-uncentered",
+			"fa",
+			"",
+			"WHERE ",
+			"`touched` > (NOW()",
+			"UNIX_TIMESTAMP(`games`.`touched`)",
+			"games`.`touched",
+			"circle",
+			"+",
+			"'+ picon +'",
+			"loginerror",
+			"regerror",
+			"<path class = \"circle circle circleinbox\" fill=\"#3298CB\" d=\"",
+			"",
+			"cross crossinbox cross",
+			"<path class = \"cross cross\" fill=\"#CC3232\" d=\"",
+			"precircle",
+			"",
+			"currentID",
+			"mediumborderbox mediumborderbox",
+			"smallid",
+			"smallbox",
+			"<rect class=\"",
+			" smallbox",
+			"_middle",
+			"<rect id =\"mediumbox_smallbox\" x=",
+			"<rect id = \"preview_top\"",
+			" stroke-width=\"1\"",
+			"",
+			"\",",
+			"\"",
+			"",
+			"/"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 92.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.paneltranformations":
+	{
+		"height": 183.0
+	},
+	"project": "romme7.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"home.bla",
+				"resources\\views\\home.blade.php"
+			],
+			[
+				"_settings",
+				"resources\\assets\\sass\\_settings.scss"
+			],
+			[
+				"config/da",
+				"config\\database.php"
+			],
+			[
+				"",
+				"resources\\assets\\sass\\app.scss"
+			],
+			[
+				"app.s",
+				"resources\\assets\\sass\\app.scss"
+			],
+			[
+				"welcome",
+				"resources\\views\\welcome.blade.php"
+			],
+			[
+				"resou/wel",
+				"resources\\views\\welcome.blade.php"
+			],
+			[
+				"reso/sass/",
+				"resources\\assets\\sass\\app.scss"
+			],
+			[
+				"node_/found",
+				"node_modules\\foundation-sites\\scss\\foundation.scss"
+			],
+			[
+				"res/sass/",
+				"resources\\assets\\sass\\_settings.scss"
+			],
+			[
+				"resou/compo",
+				"resources\\assets\\js\\components\\Xlist.vue"
+			],
+			[
+				"reso/ass",
+				"resources\\assets\\js\\app.js"
+			],
+			[
+				"settings",
+				"resources\\assets\\sass\\_settings.scss"
+			],
+			[
+				"setting",
+				"resources\\assets\\sass\\_settings.scss"
+			],
+			[
+				"routes/we",
+				"routes\\web.php"
+			],
+			[
+				"node-mo/foundatio",
+				"node_modules\\foundation-sites\\.customizer\\css\\foundation.css"
+			],
+			[
+				"res/app.scs",
+				"resources\\assets\\sass\\app.scss"
+			],
+			[
+				"node_modu/found",
+				"node_modules\\foundation-sites\\scss\\foundation.scss"
+			],
+			[
+				"app.scss",
+				"resources\\assets\\sass\\app.scss"
+			],
+			[
+				"app.js",
+				"resources\\assets\\js\\app.js"
+			],
+			[
+				"home.blade",
+				"resources\\views\\home.blade.php"
+			],
+			[
+				"routes/web",
+				"routes\\web.php"
+			],
+			[
+				"src/assets/scss/",
+				"calender\\html\\src\\assets\\scss\\_calender1.scss"
+			],
+			[
+				"php/",
+				"calender\\php\\index.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"F:\\laciapps\\diplomarbeit-laravel\\calenderapp\\calenderapp.sublime-project"
+			],
+			[
+				"fin",
+				"F:\\laciapps\\fineances\\fineancesapp.sublime-project"
+			],
+			[
+				"finea",
+				"C:\\xampp\\htdocs\\finea.sublime-workspace"
+			],
+			[
+				"whi",
+				"C:\\xampp\\htdocs\\which\\which.sublime-project"
+			],
+			[
+				"dip",
+				"C:\\xampp\\htdocs\\diplomarbeit\\diplomarbeit.sublime-project"
+			],
+			[
+				"cms",
+				"C:\\xampp\\htdocs\\cmsapp\\cmsapp.sublime-project"
+			],
+			[
+				"maus",
+				"C:\\F\\Google Drive\\PROJECTS\\mauserdach\\mauser.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 260.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
